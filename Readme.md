@@ -56,7 +56,7 @@ CLOUDINARY_API_SECRET=your_api_secret
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/premprakash8080/node-mongo-microservices-template.git
+git clone https://github.com/premprakash8080/node-mysql-microservices-template.git
 ```
 
 2. Install dependencies:
